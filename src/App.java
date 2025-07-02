@@ -1,4 +1,7 @@
+import controlador.ContactoController;
+import modelo.Contacto;
 import modelo.Sets;
+import utils.ContactoComparatorConNumero;
 
 public class App {
     public static void main(String[] args) throws Exception {
@@ -12,6 +15,8 @@ public class App {
         runTreeSetConComparador(sets);
         System.out.println("");
         runTreeSetConComparadorAlfabetico(sets);
+        ContactoController contactoController = new ContactoController();
+        ContactoComparatorConNumero contactoComparatorConNumero = new ContactoComparatorConNumero();
     }
     public static void runHashSet (Sets sets){
         //Ejemplo con HashSet
