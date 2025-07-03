@@ -1,4 +1,5 @@
 import controlador.ContactoController;
+import controlador.Ejercicios;
 import modelo.Contacto;
 import modelo.Sets;
 import utils.ContactoComparatorConNumero;
@@ -17,6 +18,7 @@ public class App {
         runTreeSetConComparadorAlfabetico(sets);
         ContactoController contactoController = new ContactoController();
         ContactoComparatorConNumero contactoComparatorConNumero = new ContactoComparatorConNumero();
+        Ejercicios ejercicios = new Ejercicios();
     }
     public static void runHashSet (Sets sets){
         //Ejemplo con HashSet
