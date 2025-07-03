@@ -69,5 +69,7 @@ Elementos del TreeSet (Ordenados por Longitud y Alfabeticamente)
 
 ![image](https://github.com/user-attachments/assets/33a6a39a-1ebd-41df-ab63-28bce5012ca5)
 ![image](https://github.com/user-attachments/assets/a952b001-43ac-4999-9624-8a64a55b7548)
+![image](https://github.com/user-attachments/assets/b100a634-c1ea-4b91-bc73-f9546840a0c9)
+
 
 
